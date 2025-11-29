@@ -1,4 +1,4 @@
-module fast-text-search
+module github.com/justyntemme/fast-text-search
 
 go 1.21.5
 
